@@ -1,0 +1,17 @@
+{
+  "name": "fine_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fine-uploader": "^5.14.2",
+    "multer": "^1.3.0"
+  }
+}
